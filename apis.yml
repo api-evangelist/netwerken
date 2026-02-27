@@ -1,0 +1,60 @@
+name: Netwerken APIs
+description: A collection of APIs provided by Netwerken for network management and services
+url: https://www.netwerken.com
+created: '2024'
+modified: '2024'
+apis:
+- name: Netwerken Network Management API
+  description: API for managing network infrastructure, monitoring, and configuration
+  image: https://www.netwerken.com/images/api-logo.png
+  humanUrl: https://www.netwerken.com/network-api
+  baseUrl: https://api.netwerken.com/v1/network
+  tags:
+  - Networks
+  - Infrastructure
+  - Monitoring
+  - Configuration
+  properties:
+  - type: Documentation
+    url: https://docs.netwerken.com/network-api
+  - type: OpenAPI
+    url: https://api.netwerken.com/v1/network/openapi.json
+  - type: Authentication
+    url: https://docs.netwerken.com/authentication
+  contact:
+  - type: Support
+    url: https://www.netwerken.com/support
+  - type: Email
+    url: mailto:api-support@netwerken.com
+- name: Netwerken Device API
+  description: API for device discovery, management, and inventory
+  image: https://www.netwerken.com/images/device-api-logo.png
+  humanUrl: https://www.netwerken.com/device-api
+  baseUrl: https://api.netwerken.com/v1/devices
+  tags:
+  - Devices
+  - Inventory
+  - Discovery
+  properties:
+  - type: Documentation
+    url: https://docs.netwerken.com/device-api
+  - type: OpenAPI
+    url: https://api.netwerken.com/v1/devices/openapi.json
+  contact:
+  - type: Support
+    url: https://www.netwerken.com/support
+maintainers:
+- name: Netwerken API Team
+  email: api-team@netwerken.com
+  url: https://www.netwerken.com/api-team
+common:
+- type: Terms of Service
+  url: https://www.netwerken.com/terms
+- type: Privacy Policy
+  url: https://www.netwerken.com/privacy
+- type: Status Page
+  url: https://status.netwerken.com
+- type: Pricing
+  url: https://www.netwerken.com/pricing
+- type: Sign Up
+  url: https://www.netwerken.com/signup
